@@ -11,7 +11,7 @@ hassle of downloading or styling the data.
 .. warning:: 
 
    SEDAC services are currently undergoing migration and not accessible. We will
-   update the tutorial oncethe migration is complete. Meanwhile, you may follow the 
+   update the tutorial once the migration is complete. Meanwhile, you may follow the 
    tutorial using an alternate WMS service, such as NLCD Landcover WMS ``https://www.mrlc.gov/geoserver/NLCD_Canopy/wms?SERVICE=WMS&REQUEST=GetCapabilities``
    
 
